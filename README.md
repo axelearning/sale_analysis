@@ -1,5 +1,5 @@
 # Analyse des ventes d'une entreprise 📊
-à travers ce projet, j'ai analysé les ventes d'un e-commerce spécialiser dans l'électronique puis présenter mes découvertes et recommandations à travers un rapport web interactif.
+à travers ce projet, j'ai analysé les ventes d'un e-commerce spécialisé dans l'électronique puis présenté mes découvertes et recommandations à travers un rapport web interactif.
 
 <h3 align="left">
   <span>👉 </span>
