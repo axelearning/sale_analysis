@@ -1,21 +1,21 @@
-# Analyse des ventes d'une entreprise 📊
-à travers ce projet, j'ai analysé les ventes d'un e-commerce spécialisé dans l'électronique puis présenté mes découvertes et recommandations à travers un rapport web interactif.
+# Sales Analysis of an e-commerce 📊
+Through this project, I explored sales of a company specialized in electronics and then presented my findings and recommendations through an interactive web report.
 
 <h3 align="left">
   <span>👉 </span>
-  <a href="https://sale-analysis-storytelling.herokuapp.com/">Voir le rapport</a>
+  <a href="https://sale-analysis-storytelling.herokuapp.com/">View the report</a>
 </h3>
 <br>
 
 <p align="center">
-  <img src='img/rapport.gif' alt="Gif du rapport" width=750>
+  <img src='img/rapport.gif' alt="Report gif" width=750>
 </p>
 <br>
 
-## **Qu'est ce que j'ai appris ?**
-- créer des visualisations simples, impactantes et compréhensibles
-- élaborer un rapport interactif en utilisant `Dash` et `Plotly`
+## What did I learn?
+- Create simple, impactful and understandable visualizations
+- Build an interactive report using `Dash` and `Plotly`
 <br>
 
-## **Pourquoi ce projet ?**
-J'ai commencé ce projet après avoir lu le livre: [storyteling with data](https://www.storytellingwithdata.com/) afin de m'exercer dans la communication et la présentation de mes résultats. Le dataset est fictif, il vient de cette [vidéo](https://www.youtube.com/watch?v=eMOA1pPVUc4&t=242s*). Je n'ai aucune expertise dans le domaine de la vente de produits tech.
+## Why this project?
+I started this project after reading the book: [storyteling with data](https://www.storytellingwithdata.com/) to practice communicating and presenting my findings. The dataset is fictional, it comes from this [video](https://www.youtube.com/watch?v=eMOA1pPVUc4&t=242s*).  I have no expertise in selling tech products.
